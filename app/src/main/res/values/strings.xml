@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The System</string>
+    <string name="please_login">Please Login</string>
+    <string name="welcome_to_the_system">Welcome to the System</string>
+</resources>
